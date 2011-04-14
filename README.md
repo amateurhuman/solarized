@@ -1,3 +1,7 @@
+### Slowly building out TextMate theme, starting with Dark, that as closely matches the original vim theme as possible.
+
+#### Original README follows:
+
 ---
 Title: Solarized
 Description: Precision colors for machines and people
@@ -42,6 +46,7 @@ here](https://github.com/altercation/mutt-colors-solarized))
 * Adobe Photoshop Palette (inc. L\*a\*b values)
 * Apple Color Picker Palette
 * GIMP Palette
+* TextMate (Dark Only)
 
 Don't see the application you want to use it in? Download the palettes (or pull 
 the values from the table below) and create your own. Submit it back and I'll 
